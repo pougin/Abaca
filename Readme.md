@@ -10,6 +10,7 @@ Served 20+ dynamic million requests per day on a 50+ servers cluster across 3 da
 
 A typical file structure is:
 
+```
 /var/www
 	|- **Abaca**
 	|- com.somesite
@@ -31,6 +32,7 @@ A typical file structure is:
 		|- **abaca**
 		|- **abaca.php**
 		|- *index.php*
+```		
 		
 > **Abaca** is the framework directory, **abaca** is your project shared components directory, **abaca.php** is your project basic setting file. *index.php* requires abaca.php to use the framework.
 
