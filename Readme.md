@@ -2,7 +2,11 @@
 
 **This project was first developed in early 2010, not maintained any more.**
 
+**Just a copy of old project. DO NOT use this project in production.**
+
 A lightweight php framework for web projects with many small modules. It suggests some rules to orgnize your project files.
+
+Served 20+ dynamic million requests per day on a 50+ servers cluster across 3 data centers in production for a teenager social network in China.
 
 A typical file structure is:
 
