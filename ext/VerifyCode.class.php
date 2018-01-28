@@ -2,7 +2,7 @@
 ##########################################
 # 验证码，提供GD和IM两种图片，一般使用GD
 # 验证码都在10分钟内过期
-# copy right reserved by pougin@163.com
+# copy right reserved by pougin@qq.com
 ##########################################
 
 class VerifyCode {
